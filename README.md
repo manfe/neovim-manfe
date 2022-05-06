@@ -25,6 +25,7 @@ Run `nvim` and wait for the plugins to be installed
 Open `nvim` and enter the following:
 
 ```
+:PackerSync
 :checkhealth
 :checkhealth telescope
 ```
