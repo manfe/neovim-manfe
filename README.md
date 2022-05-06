@@ -13,7 +13,7 @@ brew install fd # https://github.com/sharkdp/fd#installation  this is for telesc
 ```
 
 ```
-git clone ...
+git clone git@github.com:manfe/neovim-manfe.git ~/.config/nvim
 ```
 
 Run `nvim` and wait for the plugins to be installed 
